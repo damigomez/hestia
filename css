@@ -1,0 +1,64 @@
+.hf-dbs { 
+  color: var(--text, #976946);
+font-family: Miller Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+h1 {
+color: var(--text, #976946);
+font-family: Miller Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.sc-irLvoH cnCaR search-filter-container {
+font-family: lato;
+color: black;
+}
+
+
+.byoJAG h1 {
+font-family: Miller Display;
+color: white;
+font-size: 65px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+} 
+
+.eNJDUa {
+  display: flex;
+  font-family: miller display;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px 50px;
+  gap: 48px;
+}
+
+.iycWRk h1 {
+  font-family: miller display;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.iRrAGi .tab-content {
+  padding: 0px;
+  font-family: lato;
+}
+
+.huAYHf {
+  font-family: lato;
+  border-radius: 6px;
+  padding: 5px 10px;
+  border: 1px solid rgb(238, 238, 238);
+  margin-bottom: 20px;
+}
