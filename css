@@ -58,6 +58,12 @@ line-height: normal;
   border-radius: 56px;
 }
 
+.jhsEsn {
+    background-color: rgb(138, 90, 53);
+    border-color: rgb(152, 99, 58);
+    border-radius: 56px;
+}
+
 .form-select {
   border-radius: 56px;
 }
