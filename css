@@ -1,12 +1,3 @@
-.hf-dbs { 
-  color: var(--text, #976946);
-font-family: Miller Display;
-font-size: 48px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-}
-
 h1 {
 color: var(--text, #976946);
 font-family: Miller Display;
