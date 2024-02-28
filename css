@@ -53,3 +53,11 @@ line-height: normal;
   border: 1px solid rgb(238, 238, 238);
   margin-bottom: 20px;
 }
+
+.form-control {
+  border-radius: 56px;
+}
+
+.form-select {
+  border-radius: 56px;
+}
